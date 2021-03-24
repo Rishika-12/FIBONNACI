@@ -17,3 +17,5 @@ for(f=1;f<=n;f++){
   else
     return fibonaci(n-1) + fibonaci(n-2);
 }
+// f denotes the positions (n is 10 means 10 numbers in fibbonaci should be printed
+//i denotes from where it should begin (if i=0 means fibonnaci series begins from 0
